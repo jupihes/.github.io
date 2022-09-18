@@ -1,7 +1,7 @@
 
 
-Riddle_classic of can-you-cover-the-baking-sheet-with-cookies
-
+Riddle_classic of [can-you-cover-the-baking-sheet-with-cookies](https://fivethirtyeight.com/features/can-you-cover-the-baking-sheet-with-cookies/)
+```python
 import matplotlib
 from matplotlib import pyplot as plt, patches
 
@@ -24,5 +24,6 @@ plt.xlim([-1, 1])
 plt.ylim([-1, 1])
 plt.axis('equal')
 plt.grid()
-
+```
 ![Plot](https://gist.github.com/jupihes/b475a0fd3efb91e063b81fffecb32209#file-plot_5c-svg)
+https://gist.github.com/jupihes/b475a0fd3efb91e063b81fffecb32209#file-plot_5c-svg
